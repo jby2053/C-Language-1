@@ -11,7 +11,7 @@ void LoadFile(const char* filename)
 	FILE* file = fopen("Image/grandmama.txt", "r");
 	// 읽어주는 파일 이름을 제대로 작성해줘야 합니다.
 	// 텍스트 이름은 영어로 작성 해줘야 합니다. 
-	// 이미지 경로에 할머니 텍스트 열기
+	// 이미지 경로에 grandmama 텍스트 열기
 
 	// 값 정할수 있음
 	char buffer[BUFFER_SIZE] = { 0, };
