@@ -1,12 +1,7 @@
 ﻿  Solution.c
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(15,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(16,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(17,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(18,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(19,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(20,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(21,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(22,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(23,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(24,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(25,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(72,19): error C2065: 'y': undeclared identifier
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(72,28): error C2065: 'y': undeclared identifier
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(75,20): error C2065: 'x': undeclared identifier
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(77,7): error C2065: 'x': undeclared identifier
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(81,18): error C2065: 'x': undeclared identifier
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(83,16): error C2065: 'y': undeclared identifier
