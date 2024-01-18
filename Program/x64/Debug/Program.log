@@ -1,7 +1,4 @@
-﻿  Solution.c
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(72,19): error C2065: 'y': undeclared identifier
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(72,28): error C2065: 'y': undeclared identifier
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(75,20): error C2065: 'x': undeclared identifier
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(77,7): error C2065: 'x': undeclared identifier
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(81,18): error C2065: 'x': undeclared identifier
-C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.c(83,16): error C2065: 'y': undeclared identifier
+﻿  Solution.cpp
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.cpp(28,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\Solution.cpp(28,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Program.vcxproj -> C:\Users\Administrator\Desktop\C-Language\C-Language-1\Program\x64\Debug\Program.exe
